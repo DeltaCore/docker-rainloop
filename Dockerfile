@@ -1,5 +1,5 @@
 FROM alpine:3.4
-MAINTAINER Niclas Mietz niclas@mietz.io
+MAINTAINER Marcel Benning marcel1998@gmx.de
 
 ENV RAINLOOP_VERSION 1.12.0
 
