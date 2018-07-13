@@ -1,5 +1,5 @@
 NAME=rainloop
-PREFIX=solidnerd
+PREFIX=deltacore
 TAG=${PREFIX}/${NAME}
 
 build:
