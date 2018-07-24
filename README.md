@@ -35,3 +35,4 @@ This container supports all Database PHP extensions for the contacts:
 The MIT License (MIT)
 
 Copyright (c) 2016 Niclas Mietz
+Copyright (c) 2018 Marcel Benning
