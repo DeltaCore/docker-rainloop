@@ -1,4 +1,4 @@
-## Version: [1.12.0](http://www.rainloop.net/changelog/)
+## Version: [1.12.1](http://www.rainloop.net/changelog/)
 
 ## Quickstart
 
