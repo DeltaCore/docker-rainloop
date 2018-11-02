@@ -37,3 +37,4 @@ VOLUME /var/www/rainloop/data
 
 ADD docker-entrypoint.sh /
 ENTRYPOINT  ["/docker-entrypoint.sh"]
+
